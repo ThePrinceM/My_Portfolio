@@ -6,6 +6,7 @@ import profilePic from '../assets/pm_desktop.png';
 const HeroSection = () => {
   const globeRef = useRef<HTMLDivElement>(null);
 
+  // hi there this is the 3d globe effect
   useEffect(() => {
     // Create particles for the globe
     if (globeRef.current) {
