@@ -86,7 +86,7 @@ const HeroSection = () => {
       <div className="relative z-10 flex flex-col lg:flex-row items-center justify-center gap-12 lg:gap-24 px-4">
         {/* Hero Text */}
         <div className="text-center lg:text-left order-2 lg:order-1">
-          <p className="text-primary text-sm md:text-base font-medium mb-2 tracking-wider uppercase">Full Stack Developer</p>
+          <p className="text-primary text-sm md:text-base font-medium mb-2 tracking-wider uppercase">Data Analyst/Engineer</p>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4">
             <span className="text-foreground">Hi, I'm</span>
             <br />
